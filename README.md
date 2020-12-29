@@ -1,2 +1,2 @@
 # google-homepage
-This is my first project named Google-homepage in "The Odin priject"
+This is my first project named Google-homepage in "The Odin project"
